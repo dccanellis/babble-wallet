@@ -1,2 +1,2 @@
 # babble-wallet
-Bitcoin wallet for onboarding the next generation. Your child's first 12 words are their seed phrase.
+An experimental Bitcoin wallet for onboarding the next generation. The first 12 words you ever spoke as your seed phrase.
